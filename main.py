@@ -1,7 +1,7 @@
 from ConnectFour import *
 
 def main():
-    c4 = ConnectFour([3,3])
+    c4 = ConnectFour([5,5])
     c4.print_board()
 
     is_game_over = False
